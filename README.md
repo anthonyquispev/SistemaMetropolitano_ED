@@ -1,9 +1,12 @@
 ## **Sistema Metropolitano ED**
 
-|Licencia|Lenguaje|Curso|Ciclo|
-|:--:|:--:|:--:|:--:|
-|[![Licencia](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)|[![Lenguaje](https://img.shields.io/badge/Language-java-blue.svg)](https://dev.java/learn/getting-started-with-java/)|Estructura de Datos|V
+<div align="center">
 
+|Licencia|Lenguaje|Ciclo|Curso|
+|:--:|:--:|:--:|:--:|
+|[![Licencia](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)|[![Lenguaje](https://img.shields.io/badge/Language-java-blue.svg)](https://dev.java/learn/getting-started-with-java/)|![Ciclo](https://img.shields.io/badge/V-2020-green.svg)|![Estructura de Datos](https://img.shields.io/badge/Estructura_de_Datos-yellow.svg)
+
+</div>
 
 ## Descripción
 

@@ -1,9 +1,13 @@
-## **ProyectoMetropolitano_ED**
+## **Sistema Metropolitano ED**
 
-Ciclo V 2020 - UNMSM - Proyecto final del curso "Estructura de Datos"
+|Licencia|Lenguaje|Curso|Ciclo|
+|:--:|:--:|:--:|:--:|
+|[![Licencia](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)|[![Lenguaje](https://img.shields.io/badge/Language-java-blue.svg)](https://dev.java/learn/getting-started-with-java/)|Estructura de Datos|V
+
 
 ## Descripción
-El sistema está basado en el proyecto del Metropolitano realizado en un ciclo anterior a este, pero en este caso se utilizaron diversos tipos de estructuras de datos, por ejemplo: pilas, colas, árboles y grafos.  
+
+El sistema está basado en el proyecto Metropolitano realizado en un ciclo anterior, pero en este caso se utilizaron diversos tipos de estructuras de datos, por ejemplo: pilas, colas, árboles y grafos.  
 
 
 ## Estructuras
@@ -33,77 +37,80 @@ Se utilizaron los grafos para brindarle al cliente una mejor opción de ruta seg
 ## Capturas
 
 <p align="center">
-  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/MenuPrincipal.PNG" width="500px" heigh="350px">
+  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/MenuPrincipal.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Cliente_Viajes.PNG" width="300px" heigh="450px">
+  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Cliente_Viajes.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Cliente_BusesDisponibles.PNG" width="300px" heigh="450px">
+  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Cliente_BusesDisponibles.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Cliente_RecargarTarjeta.PNG" width="300px" heigh="450px">
+  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Cliente_RecargarTarjeta.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Cliente_HorarioBuses.PNG" width="300px" heigh="450px">
+  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Cliente_HorarioBuses.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Cliente_EnviarMensaje.PNG" width="300px" heigh="450px">
+  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Cliente_EnviarMensaje.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Cliente_MensajesEnviados.PNG" width="300px" heigh="450px">
+  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Cliente_MensajesEnviados.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Cliente_MensajesRecibidos.PNG" width="300px" heigh="450px">
+  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Cliente_MensajesRecibidos.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_RegistroCliente.PNG" width="600px" heigh="400px">
+  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_RegistroCliente.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_RegistroEmpleado.PNG" width="600px" heigh="400px">
+  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_RegistroEmpleado.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_EditarCliente.PNG" width="600px" heigh="400px">
+  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_EditarCliente.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_EmitirTarjeta.PNG" width="600px" heigh="400px">
+  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_EmitirTarjeta.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_RecargarTarjeta.PNG" width="600px" heigh="400px">
+  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_RecargarTarjeta.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_MostrarMovimientos.PNG" width="600px" heigh="400px">
+  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_MostrarMovimientos.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_IniciarViaje.PNG" width="600px" heigh="400px">
+  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_IniciarViaje.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_FinalizarViaje.PNG" width="600px" heigh="400px">
+  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_FinalizarViaje.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_MostrarViajes.PNG" width="600px" heigh="400px">
+  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_MostrarViajes.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_ResponderColaMensajes_2.PNG" width="600px" heigh="400px">
+  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_ResponderColaMensajes_2.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_Árbol.PNG" width="600px" heigh="400px">
+  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_Árbol.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_MostrarViajes.PNG" width="600px" heigh="400px">
+  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_MostrarViajes.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_Rutas1.PNG" width="600px" heigh="400px">
+  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_Rutas1.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_Rutas2.PNG" width="600px" heigh="400px">
+  <img src="https://github.com/anthonyquispev/ProyectoMetropolitano_ED/blob/master/capturas/Empleados_Rutas2.PNG">
 </p>
 
 
 ## Profesor
+
 * Huayna Dueñas, Ana María
 
+
 ## Integrantes
+
 * Acuña Anampa, Britney Jennifer
 * Alonso Varillas, Margorie Margarita
 * Quispe Vega, Anthony Yair
